@@ -1,7 +1,7 @@
 # Yasmin 
 ## Repositório para fazer uma atividade dada em aula, para treinar criar branch e pull request no repositório do pessoal do grupo:
-1. Gustavo, ;-;
-2. Oi, Sou a Gabi, e estou adicionando uma frase no texto da Yassss!!!
+1. Oi, Sou a Gabi, e estou adicionando uma frase no texto da Yassss!!!
+2. Gustavo, ;-;
 𓀀
 𓀁
 𓀂
